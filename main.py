@@ -12,9 +12,9 @@ st.title("👋 Hello, GitHub!")
 st.subheader("자기소개")
 
 # 기본 정보
-name = "김루크"
-major = "방배중학교"
-grade = "3학년"
+name = "홍홍홍길동"
+major = "홍홍홍진호"
+grade = "안녕하세요"
 interest = ["Python", "AI", "Data Analysis"]
 
 st.write(f"**이름:** {name}")
